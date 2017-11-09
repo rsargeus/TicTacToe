@@ -1,0 +1,15 @@
+C:\Source\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.dll
+C:\Source\TicTacToe\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Source\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Xamarin.Forms.Core.dll
+C:\Source\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Source\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Source\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Source\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Xamarin.Forms.Core.xml
+C:\Source\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Source\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Source\TicTacToe\TicTacToe\TicTacToe\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Source\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Source\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.MainPage.xaml.g.cs
+C:\Source\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.App.xaml.g.cs
+C:\Source\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.dll
+C:\Source\TicTacToe\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
